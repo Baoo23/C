@@ -1,0 +1,18 @@
+1)MathTsk
+https://www.onlinegdb.com/MYt4WStg8
+2)MainD + OffD => B[5] if sum>0 RowMaxindexSum; else ColNegSum;
+https://www.onlinegdb.com/RYMVOFcwW
+3)BellowOffD, if even B[5] = Col1 + Col4, if odd B[5] = Row1 * Row2;
+https://www.onlinegdb.com/BPJhdTyaY
+4)SuMUpperOffD + SuMMainD if =, A[5] + MaxCol, else, A[5] + PosSumRow;
+https://www.onlinegdb.com/L6CnwbDWN
+5)MainDmax and indexes, switch firstRow and MaxRow, B[5] + MaxCol;
+https://www.onlinegdb.com/oWd8j2Gm1
+6)Students;
+https://www.onlinegdb.com/BKfFVXxjC
+7)UpperOffDSum if even,switch first and last Cols, else Rows;
+https://www.onlinegdb.com/dkUUnwi-n
+8)UpperOffDSum if even,B[5] SmRows, else Allmaxes;
+https://www.onlinegdb.com/kd3trff38
+9)switching elems;
+https://onlinegdb.com/uhD8NdFUq
